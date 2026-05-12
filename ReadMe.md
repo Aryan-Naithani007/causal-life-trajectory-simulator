@@ -8,11 +8,5 @@
 
 These decisions prioritize clarity, correctness, and simplicity over unnecessary complexity.
 
-## App Overview
 
-![App Overview](screenshots/app_overview.png)
-
-## Story Mode
-
-![Story Mode](screenshots/story_mode.png)
 
